@@ -11,3 +11,4 @@ shell devtools for git ; docker ; npm
 3. `复制`url地址
 4. 使用`wget url地址`完成`sh`文件下载
 5. 运行下载的`sh`文件 
+![image wget下载sh示例](./20180511134703287.png)
